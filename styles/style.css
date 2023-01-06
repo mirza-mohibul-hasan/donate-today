@@ -64,6 +64,14 @@
     font-weight: 700;
     font-size: 30px;
     color: #707070;
+    border: 2px solid #FAFAFA;
+    /* cursor: pointer; */
+}
+.tk-btn:hover {
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    color: #FF5959;
 }
 
 .main-title {
@@ -79,11 +87,12 @@
     margin: 20px 374px 0;
 }
 
-.other-amount {
+.other-amount input {
     margin-top: 30px;
     font-size: 18px;
     color: #B3B3B3;
     margin-bottom: 10px;
+    border: none;
 }
 
 .hr-line {
