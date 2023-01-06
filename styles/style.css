@@ -149,6 +149,13 @@
     gap: 70px;
     align-items: center;
 }
+.contribute-image{
+    flex: 1;
+    overflow: hidden;
+}
+.contribute-description{
+    flex: 1;
+}
 .contribute-container h1{
     font-weight: 700;
     font-size: 45px;
